@@ -4,8 +4,8 @@
 |||
 |:-|:-|
 |`employee-attrition.xlsx`|Excel workbook of compiled datasets used for report building. Original datasets from [HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance?resource=download) uploaded by Mahmoud Emad Abdallah on Kaggle.|
-|`employye-attrition-report.pbix`|Microsoft Power BI file of resulting data dashboard report. Can be downloaded and opened using Microsoft Power BI Desktop (free).|
-|`employee-attrition-report.pdf`|pdf version of above file. No interative functions, but still helpful in terms of understanding the report results and aesthetics.|
+|`employye-attrition-report.pbix`|Microsoft Power BI file of resulting interactive data dashboard report. Can be downloaded and opened using Microsoft Power BI Desktop (free).|
+|`employee-attrition-report.pdf`|pdf version of above file. No interactive functions, but still helpful in terms of understanding the report results and aesthetics.|
 
 ## The why behind this project
 During my job search, I came across a LinkedIn post describing Intuit's most recent wave of layoffs. While this wouldn't usually catch my eye, what was significant about this instance was the fact that Intuit very publicly described 1,050 out of 1,800 total layoffs as "low performers". Understandably, this led to outrage as (1) these public statements can have detrimental effects on the career of the now unemployed job searcher, (2) low employee performance can be due to many interlaced factors such as poor project management, excessive workloads, unclear direction, etc., and (3) low employee performance can be addressed several time prior to immediate layoff.
