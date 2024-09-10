@@ -1,7 +1,8 @@
 # employee-attrition (HR Analytics project)
 
 ## File documentation
-|||
+
+|File Name|Description|
 |:-|:-|
 |`employee-attrition.xlsx`|Excel workbook of compiled datasets used for report building. Original datasets from [HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance?resource=download) uploaded by Mahmoud Emad Abdallah on Kaggle.|
 |`employye-attrition-report.pbix`|Microsoft Power BI file of resulting interactive data dashboard report. Can be downloaded and opened using Microsoft Power BI Desktop (free).|
