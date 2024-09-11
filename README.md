@@ -39,10 +39,12 @@ Some final results, especially regarding the original motivating questions and c
 
 3. Can forecasting of employee attrition inform hiring practices?
 
-   As we can see on the Overview of Company Behavior and Trajectory report page, employee attrition is not frequent and/or seasonal enough to provide insightful forecasting results. The attrition is very close to zero and very minimally increased over the ten years the company has existed. So, unfortunately forecasting is not feasible or reliable in this situation. On the other hand, simply looking at the company-wide attrition rate over time on the Employee Attrition and Performance report page can tell us more. A good attrition rate should be under 10%. With the growth period of the company, the attrition rate is at a good place. As the head count increases in the future, attrition rate should be expected to increase as well, but preventative measures should be taken to keep attrition rate under 10%. These preventative measures will relate to the factors mentioned before that can impact attrition. Some potential actionables to manage and work with the attrition rate can include:
+   As we can see on the Overview of Company Behavior and Trajectory report page, employee attrition is not frequent and/or seasonal enough to provide insightful forecasting results. The attrition is very close to zero and very minimally increased over the ten years the company has existed. So, unfortunately forecasting is not feasible or reliable in this situation. On the other hand, simply looking at the company-wide attrition rate over time on the Employee Attrition and Performance report page can tell us more. A good attrition rate should be under 10%. With the growth period of the company, the attrition rate is at a good place. As the head count increases in the future, attrition rate should be expected to increase as well, but preventative measures should be taken to keep attrition rate under 10%. These preventative measures will relate to the factors mentioned before that can impact attrition.
 
-   - exploring possible incentives for employees in job roles with the most attrition (data scientists, sales executives, software engineers, and sales representatives)
-   - dispersing workload so that employees are not working over time
-   - introduce a ceiling/cap for hiring rates so that head count can maintian and level out (also leveling out attrition rate) once attrition rate approaches 10%
+## Potential actions to manage and work with the attrition rate can include:
 
-   Utilizing this discovered knowledge can help in efforts to retain employees and manage attrition.
+- exploring possible incentives for employees in job roles with the most attrition (data scientists, sales executives, software engineers, and sales representatives)
+- dispersing workload so that employees are not working over time
+- introducing a ceiling/cap for hiring rates so that head count can maintian and level out (also leveling out attrition rate) once attrition rate approaches 10%
+
+Utilizing this discovered knowledge can help in efforts to retain employees and manage attrition.
